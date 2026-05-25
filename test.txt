@@ -1,1 +1,1 @@
-Hello! Welcome to first text file
+Hello! Welcome to first text file . In the next class I will learn git add, commit and push commands>
